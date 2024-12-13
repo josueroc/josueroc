@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi there 👋
 
+![D1D83717-BBA3-448E-B3CE-ED766DCE22A7_1_201_a](https://github.com/user-attachments/assets/87e7ee62-4c47-44ed-a0dd-e9c67a25e83a)
+
+Getting started :zzz:
 <!--
 **josueroc/josueroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
